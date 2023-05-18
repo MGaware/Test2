@@ -21,18 +21,6 @@ import org.openqa.selenium.support.ui.Select;
 public class Class1 
 {
 	
-	public static void main(String[] args) throws InterruptedException, AWTException 
-	{
-		int sum=0;
-		for(int a=1; a<=10; a++) 
-		{
-			sum=sum+a;
-			
-			
-		}
-		System.out.println("sum of 1 to 10 -"+ sum);
-		
-	}
 	
 
 		
